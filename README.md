@@ -1,5 +1,5 @@
 # Find Open Chrome Tab!!
-For those of us with too many Chrome tabs open on macOS...this is a simple applescript to search the tab title and url for a match string and if found sets that as the active tab.
+For those of us with too many Chrome tabs open on macOS :flushed:...this is a simple applescript to search the tab title and url for a match string and if found sets that as the active tab. :sunglasses:
 
 ## To Use:
 1. Open in the macOS Script Editor
